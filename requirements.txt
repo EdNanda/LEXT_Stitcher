@@ -1,0 +1,8 @@
+astropy==4.0.2
+imutils==0.5.4
+m2stitch==0.6.0
+matplotlib==3.3.4
+microscopestitching==0.2.0
+numpy==1.20.2
+opencv_python==4.5.1.48
+Pillow==9.2.0
